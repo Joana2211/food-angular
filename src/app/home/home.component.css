@@ -6,6 +6,9 @@ ul {
   list-style-type: none;
   padding: 0;
 }
+li{
+  z-index: -2;
+}
 li a {
   height: 100%; /*20 x madhesia default e browser qe eshte 16px*/
   width: 20rem;
@@ -24,6 +27,7 @@ li a:hover {
 .content {
   padding: 0.5rem 1rem;
   position: relative;
+  background-color: rgb(255, 230, 242);
 }
 .favorite {
   position: absolute;

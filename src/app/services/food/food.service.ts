@@ -15,7 +15,7 @@ export class FoodService {
         origins: ['Tirana', 'Shqiperi'],
         cookTime: '10',
         stars: 1,
-        imgUrl: '/assets/images/foods/image1.jpg',
+        imgUrl: '/assets/images/foods/image11.avif',
       },
       {
         name: 'Vegetables',
@@ -24,7 +24,7 @@ export class FoodService {
         origins: ['Tirana', 'Shqiperi'],
         cookTime: '10',
         stars: 1,
-        imgUrl: '/assets/images/foods/image2.jpg',
+        imgUrl: '/assets/images/foods/image22.avif',
       },
       {
         name: 'Vegetables',
@@ -33,7 +33,7 @@ export class FoodService {
         origins: ['Tirana', 'Shqiperi'],
         cookTime: '10',
         stars: 1,
-        imgUrl: '/assets/images/foods/image3.jpg',
+        imgUrl: '/assets/images/foods/image33.avif',
       },
       {
         name: 'Vegetables',
@@ -42,7 +42,7 @@ export class FoodService {
         origins: ['Tirana', 'Shqiperi'],
         cookTime: '10',
         stars: 1,
-        imgUrl: '/assets/images/foods/image4.webp',
+        imgUrl: '/assets/images/foods/image44.jpg',
       },
       {
         name: 'Vegetables',
@@ -51,7 +51,7 @@ export class FoodService {
         origins: ['Tirana', 'Shqiperi'],
         cookTime: '10',
         stars: 1,
-        imgUrl: '/assets/images/foods/image5.webp',
+        imgUrl: '/assets/images/foods/image55.avif',
       },
       {
         name: 'Vegetables',
@@ -60,7 +60,7 @@ export class FoodService {
         origins: ['Tirana', 'Shqiperi'],
         cookTime: '10',
         stars: 1,
-        imgUrl: '/assets/images/foods/image6.webp',
+        imgUrl: '/assets/images/foods/image66.avif',
       },
     ];
   }
