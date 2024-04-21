@@ -11,8 +11,8 @@ body {
   margin: 0;
   font-family: "quicksand", "sans-serif";
   font-size: 18px;
-  background-image: url(assets/images/foods/imagebg.jpg);
-  background-color: whitesmoke;
+  background-image: url(assets/images/foods/pink.jpg);
+  background-color: rosybrown;
 }
 a {
   text-decoration: none;
